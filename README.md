@@ -1,0 +1,13 @@
+# Particle-Swarm-Optimization
+Optimizing solution for different function using PSO.
+
+## Installation
+Install Node Package Modules using following command on terminal
+```bash
+npm install
+```
+## Run
+Run pso.js using following command on terminal
+```bash
+node pso.js
+```
